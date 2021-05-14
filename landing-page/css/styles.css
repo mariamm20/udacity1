@@ -17,6 +17,7 @@ body {
     font-family: 'Merriweather', serif;
     color: #fff;
 }
+/*This is to scroll smooth*/
 html {
     scroll-behavior: smooth;
 }
